@@ -1,1 +1,1 @@
-# Win32DLL_Injector
+# Win32DLL_Injector by KOR1K1
